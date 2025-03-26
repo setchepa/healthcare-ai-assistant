@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+openai
+twilio
+websockets
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langsmith
+nest_asyncio
+httpx
